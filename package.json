@@ -1,0 +1,6 @@
+{
+  "devDependencies": {
+    "coffee-script": "*",
+    "node-static": "*"
+  }
+}
